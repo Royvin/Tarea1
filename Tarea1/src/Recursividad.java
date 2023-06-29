@@ -31,7 +31,7 @@ public class Recursividad {
         return nuevaCifra;
     }
     
-    //EJERCICIO #2
+    //EJERCICIO #2 VEA ESTE NUEVO CAMBIO
     public void imprimir(String mensaje){
         if(mensaje.length()==0){
             JOptionPane.showMessageDialog
